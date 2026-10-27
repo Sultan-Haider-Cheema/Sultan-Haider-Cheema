@@ -5,14 +5,14 @@ I like taking a model from experiment to something people can use, with honest e
 
 - 🔭 Currently: M1 MLDM (2025–2026)
 - 🎯 Interests: computer vision, classical ML, data mining, algorithm design
-- 🌱 Looking for: <!-- e.g. a Machine Learning / Data Science internship (spring–summer 2027) — edit or delete -->
+- 🌱 Looking for: Machine Learning / Data Science internship (spring–summer 2027)
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sultan-haider-cheema-60677321a/) · [Email](sultanhaidercheema555@gmail.com)
 
 ---
 
 ## 🛠️ Tech stack
 
-**Languages:** Python · R · SQL<!-- remove SQL if not used -->
+**Languages:** Python · R · SQL
 **ML / DL:** scikit-learn · Ultralytics YOLO (v5, v8) · randomForest · rpart · caret
 **Data:** NumPy · pandas · tidyverse · Matplotlib · Seaborn
 **Tools:** Jupyter · Kaggle (GPU) · Streamlit · Git · RStudio
