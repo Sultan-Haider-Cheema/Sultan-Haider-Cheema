@@ -3,7 +3,7 @@
 Master's student in **Machine Learning & Data Mining (MLDM)** at **Université Jean Monnet**, Saint-Étienne, France.
 I like taking a model from experiment to something people can use, with honest evaluation along the way.
 
-- 🔭 Currently: M1 MLDM (2025–2026)
+- 🔭 Currently: M@ MLDM (2025–2027(expected))
 - 🎯 Interests: computer vision, classical ML, data mining, algorithm design
 - 🌱 Looking for: Machine Learning / Data Science internship (spring–summer 2027)
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sultan-haider-cheema-60677321a/) · [Email](sultanhaidercheema555@gmail.com)
